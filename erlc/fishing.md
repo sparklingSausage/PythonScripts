@@ -4,6 +4,9 @@ This is Script for Roblox [ERLC](https://www.roblox.com/games/2534724415/Emergen
 
 This code automates the fishing process generating passive money.
 
+> [!WARNING]
+> 08 Aug 2025 - Fishing is currently broken, you are sometimes not able to fish at all
+
 # Structure
 
 - [Requirements](#requirements)
