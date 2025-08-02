@@ -14,8 +14,7 @@ This code automates the fishing process generating passive money.
 - Windows 10/11 (tested on Win 11)
 - Python 3.8+ ([Download](https://www.python.org/downloads/))
 - Stable Frame Rate
-- [Python libaries](#\libaries)
-- ([Python Virtual Environment](#virtual-environment)) - Recommended
+- (Python Virtual Environment) - Recommended
 
 ## Setup-Guide
 
