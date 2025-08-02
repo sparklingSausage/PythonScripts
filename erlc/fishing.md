@@ -60,7 +60,9 @@ Your positioning is very important, your position should have the following prop
 - The Character should **NOT** be in the the climbing state
 - Move your camera so there is space for the cursor to be on the water
 - Move the camera so in addition the floor is below the fishing rectangle
-  ![](../screenshots/fishing.png
+
+This is an example positioning
+  ![Example positioning](../screenshots/fishing.png)
 
 #### 2.2 Place rod
 
