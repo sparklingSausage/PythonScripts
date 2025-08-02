@@ -5,6 +5,6 @@ This repository includes some Roblox scripts that might be helpful
 > 
 > I am not responsible for anything that happens in game
 
-# Content
-### ERLC (Emergency Response: Liberty County)
+## Content
+#### ERLC (Emergency Response: Liberty County)
 - [Fishing](/erlc/fishing.md)
