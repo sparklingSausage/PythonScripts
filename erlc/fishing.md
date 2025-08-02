@@ -34,8 +34,8 @@ It's spaming left click until the white bar is inside the green area.
 ## How to Start:
 
 - Equip the rod on slot NR. 8
-- Position the character at a spot where it won't move [e.g. in the corner of the railing](screenshots/fishing.png)
-- make sure below the area of the rectangle (red-green rectangle) isn't something that might trigger the color detection [(white or gray colors.)](screenshots/fishing.png)
+- Position the character at a spot where it won't move [e.g. in the corner of the railing](../screenshots/fishing.png)
+- make sure below the area of the rectangle (red-green rectangle) isn't something that might trigger the color detection [(white or gray colors.)](../screenshots/fishing.png)
 - equip rod
 - cast the rod
 - start the script
