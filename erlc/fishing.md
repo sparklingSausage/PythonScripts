@@ -23,7 +23,8 @@ This code automates the fishing process generating passive money.
 #### 1.2 Download the python file
 
 Download -> [fishing.py](fishing.py)
-Download -> [getPos.py](getPos.py)
+
+Download -> [getpos.py](getpos.py)
 
 #### 1.3 Create a Virtual Environment using Venv
 
