@@ -3,7 +3,7 @@ This repository includes some python scripts that might be helpful
 
 
 ## Content
-#### Services/Kanban
+#### Services/Kanban/Planka
 - [Planka](/services/kanban/planka/planka.md)
 Bulk add Tasks
 
