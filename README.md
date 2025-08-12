@@ -1,9 +1,13 @@
-# Roblox scripts
-This repository includes some Roblox scripts that might be helpful
+# Python Scripts
+This repository includes some python scripts that might be helpful
 
 
 ## Content
-#### ERLC (Emergency Response: Liberty County)
+#### Services/Kanban
+- [Planka](/services/kanban/planka.py)
+Bulk add Tasks
+
+#### Games/Roblox/ERLC (Emergency Response: Liberty County)
 - [Fishing](/erlc/fishing.md)
 
 
