@@ -4,11 +4,11 @@ This repository includes some python scripts that might be helpful
 
 ## Content
 #### Services/Kanban
-- [Planka](/services/kanban/planka/planka.py)
+- [Planka](/services/kanban/planka/planka.md)
 Bulk add Tasks
 
 #### Games/Roblox/ERLC (Emergency Response: Liberty County)
-- [Fishing](/erlc/fishing.md)
+- [Fishing](/games/roblox/erlc/fishing.md)
 
 
 
