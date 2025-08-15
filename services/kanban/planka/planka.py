@@ -8,7 +8,7 @@ planka = Planka('http://example.com', auth)
 NUMBERS = [
     "1",
     "2",
-    "3",
+    "3"
 ]
 
 # === FUNCTIONS ===
