@@ -65,7 +65,7 @@ Your positioning is very important, your position should have the following prop
 - Move the camera so in addition the floor is below the fishing rectangle
 
 This is an example positioning
-  ![Example positioning](../screenshots/fishing.png)
+![Example positioning](../../screenshots/fishing.png)
 
 #### 2.2 Place rod
 
